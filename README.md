@@ -1,2 +1,2 @@
-# my-portfolio
-This is my professional portfolio
+# Ed Frost's Portfolio
+This is my professional portfolio.  It uses AWS & ReactJS
